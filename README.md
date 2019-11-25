@@ -7,11 +7,11 @@ This code provides a series of diagnostic plots for time series analysis. These 
 
 ## Here is a description of the elements in the code. 
 
--<b>'index'</b>     is the ordered index of values. This could be daily, monthly, annual values, or just an ordered set of values in -series.
+<b>'index'</b>     is the ordered index of values. This could be daily, monthly, annual values, or just an ordered set of values in -series.
 
--<b>'actual'</b>    are the the actual values in the series
+<b>'actual'</b>    are the the actual values in the series
 
--<b>'predicted'</b> are the predicted values by the model
+<b>'predicted'</b> are the predicted values by the model
 
 
 <b>'show_diagnostic_plots = True'</b>     displays the diagnostic plots
