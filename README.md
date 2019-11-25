@@ -14,10 +14,10 @@ This code provides a series of diagnostic plots for time series analysis. These 
 -<b>'predicted'</b> are the predicted values by the model
 
 
--<b>'show_diagnostic_plots = True'</b>     displays the diagnostic plots
+<b>'show_diagnostic_plots = True'</b>     displays the diagnostic plots
 
--<b>'show_performance_measures = True'</b> displays the model performance statistics
+<b>'show_performance_measures = True'</b> displays the model performance statistics
 
--<b>'show_ACF_PACF_plots = True'</b>       displays the ACF and PACF plots
+<b>'show_ACF_PACF_plots = True'</b>       displays the ACF and PACF plots
 
--<b>'show_values = True'</b>               displays the actual, predicted, and residual values
+<b>'show_values = True'</b>               displays the actual, predicted, and residual values
