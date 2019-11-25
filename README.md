@@ -5,7 +5,7 @@ This code provides a series of diagnostic plots for time series analysis. These 
 
 <b><i>time_series_diagnostic_main(index,actual,predicted, show_diagnostic_plots = True, show_performance_measures = True, show_ACF_PACF_plots = True, show_values = True)</i></b>
 
-## Here are is a description of the elements in the code. 
+## Here is a description of the elements in the code. 
 
 -<b>'index'</b>     is the ordered index of values. This could be daily, monthly, annual values, or just an ordered set of values in -series.
 
